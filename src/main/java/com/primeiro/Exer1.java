@@ -1,4 +1,4 @@
-package com.fundamentos;
+package com.primeiro;
 
 public class Exer1 {
     public static void main(String[] args) {
