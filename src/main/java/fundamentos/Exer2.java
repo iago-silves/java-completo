@@ -1,4 +1,4 @@
-package com.primeiro;
+package fundamentos;
 
 import java.util.Scanner;
 
